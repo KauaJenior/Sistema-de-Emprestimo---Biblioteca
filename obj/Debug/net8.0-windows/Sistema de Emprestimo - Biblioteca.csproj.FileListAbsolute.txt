@@ -19,3 +19,4 @@ C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo
 C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema_de_Emprestimo___Biblioteca.Properties.Resources.resources
 C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema_de_Emprestimo___Biblioteca.frmCadastraAssociado.resources
 C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema_de_Emprestimo___Biblioteca.frmCadastraLivro.resources
+C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema de Emprestimo - Biblioteca.sourcelink.json
