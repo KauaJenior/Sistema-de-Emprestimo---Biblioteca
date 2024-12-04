@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema de Emprestimo - Biblioteca/1.0.0": {
+        "runtime": {
+          "Sistema de Emprestimo - Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Emprestimo - Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
