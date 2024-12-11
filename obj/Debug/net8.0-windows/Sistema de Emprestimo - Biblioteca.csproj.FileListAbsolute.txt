@@ -24,3 +24,4 @@ C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo
 C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema .103696DB.Up2Date
 C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema_de_Emprestimo___Biblioteca.frmConsultaLivro.resources
 C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema_de_Emprestimo___Biblioteca.frmDeletaLivro.resources
+C:\Users\jusia\OneDrive\Área de Trabalho\Trabalho - Dupla\Sistema de Emprestimo - Biblioteca\obj\Debug\net8.0-windows\Sistema de Emprestimo - Biblioteca.sourcelink.json

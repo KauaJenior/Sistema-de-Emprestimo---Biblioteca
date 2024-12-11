@@ -35,7 +35,8 @@ namespace Sistema_de_Emprestimo___Biblioteca
         private void button1_Click(object sender, EventArgs e)
         {
             string nome, sexo, logradouro, cidade, estado, cpf, pais;
-
+            //FAZER O TRATAMENTO DE ERROS 
+            //VALIDAR AS ENTRADAS DOS CAMPOS
             try
             {
                 nome = txtNomeAssociado.Text;

@@ -19,6 +19,8 @@ namespace Sistema_de_Emprestimo___Biblioteca
         private double _multa;
 
         //Propriedades
+
+        //FAZER A VALIDAÇÃO DE CADA PROPRIEDADE
         public string CPF { 
             get { return _cpf; } 
             set { _cpf = value; } }
