@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\classes\\associados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:classes\\associados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\forms\\associados\\frmcadastraassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:forms\\associados\\frmcadastraassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmcadastrarassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmcadastrarassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\forms\\associados\\frmcadastraassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:forms\\associados\\frmcadastraassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmcadastraassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmcadastraassociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\forms\\livros\\frmcadastralivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:forms\\livros\\frmcadastralivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastrarAssociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmCadastrarAssociado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\forms\\livros\\frmcadastralivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:forms\\livros\\frmcadastralivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Associados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Associados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\classes\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:classes\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|c:\\users\\jusia\\onedrive\\\u00E1rea de trabalho\\trabalho - dupla\\sistema de emprestimo - biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207AC15-207B-49F7-AD46-CEED4CCD47CB}|Sistema de Emprestimo - Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmCadastrarAssociado.cs",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastrarAssociado.cs",
-              "RelativeDocumentMoniker": "frmCadastrarAssociado.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastrarAssociado.cs",
-              "RelativeToolTip": "frmCadastrarAssociado.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T01:39:31.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmCadastraAssociado.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastraAssociado.cs",
-              "RelativeDocumentMoniker": "frmCadastraAssociado.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastraAssociado.cs [Design]",
-              "RelativeToolTip": "frmCadastraAssociado.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T01:03:50.932Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmCadastrarAssociado.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastrarAssociado.cs",
-              "RelativeDocumentMoniker": "frmCadastrarAssociado.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\frmCadastrarAssociado.cs [Design]",
-              "RelativeToolTip": "frmCadastrarAssociado.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:13:31.891Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:20:27.678Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Associados.cs",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\classes\\Associados.cs",
+              "RelativeDocumentMoniker": "classes\\Associados.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\classes\\Associados.cs",
+              "RelativeToolTip": "classes\\Associados.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:13:49.777Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-11T15:03:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCadastraAssociado.cs",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Associados\\frmCadastraAssociado.cs",
+              "RelativeDocumentMoniker": "forms\\Associados\\frmCadastraAssociado.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Associados\\frmCadastraAssociado.cs",
+              "RelativeToolTip": "forms\\Associados\\frmCadastraAssociado.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:03:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCadastraAssociado.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Associados\\frmCadastraAssociado.cs",
+              "RelativeDocumentMoniker": "forms\\Associados\\frmCadastraAssociado.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Associados\\frmCadastraAssociado.cs [Projeto]",
+              "RelativeToolTip": "forms\\Associados\\frmCadastraAssociado.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:26:35.163Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadastraLivro.cs",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Livros\\frmCadastraLivro.cs",
+              "RelativeDocumentMoniker": "forms\\Livros\\frmCadastraLivro.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Livros\\frmCadastraLivro.cs",
+              "RelativeToolTip": "forms\\Livros\\frmCadastraLivro.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:19:00.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadastraLivro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Livros\\frmCadastraLivro.cs",
+              "RelativeDocumentMoniker": "forms\\Livros\\frmCadastraLivro.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Livros\\frmCadastraLivro.cs [Projeto]",
+              "RelativeToolTip": "forms\\Livros\\frmCadastraLivro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:18:55.814Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Associados.cs",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Associados.cs",
-              "RelativeDocumentMoniker": "Associados.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Associados.cs",
-              "RelativeToolTip": "Associados.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\classes\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "classes\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\classes\\Emprestimo.cs",
+              "RelativeToolTip": "classes\\Emprestimo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:15:26.756Z"
+              "WhenOpened": "2024-12-11T15:09:01.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Livro.cs",
-              "RelativeDocumentMoniker": "Livro.cs",
-              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Livro.cs",
-              "RelativeToolTip": "Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Form1.cs",
+              "RelativeDocumentMoniker": "forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\forms\\Form1.cs [Projeto]",
+              "RelativeToolTip": "forms\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:16:05.053Z"
+              "WhenOpened": "2024-12-10T19:11:04.864Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jusia\\OneDrive\\\u00C1rea de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:09:21.073Z",
+              "EditorCaption": ""
             }
           ]
         }

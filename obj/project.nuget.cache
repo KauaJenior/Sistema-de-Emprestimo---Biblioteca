@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tFrakkscDec=",
+  "dgSpecHash": "SgzjWx25eGo=",
   "success": true,
   "projectFilePath": "C:\\Users\\jusia\\OneDrive\\Área de Trabalho\\Trabalho - Dupla\\Sistema de Emprestimo - Biblioteca\\Sistema de Emprestimo - Biblioteca.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jusia\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
